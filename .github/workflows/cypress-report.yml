@@ -34,6 +34,7 @@ jobs:
           cp -r cypress/screenshots public/screenshots
           cp -r allure-report public/allure-report
           cp -r allure-results public/allure-results
+          cp -r index.html public/
       
       - name: Deploy report page to GitHub Page
         uses: peaceiris/actions-gh-pages@v3
