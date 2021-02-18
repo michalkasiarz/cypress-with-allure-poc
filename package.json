@@ -7,19 +7,20 @@
     "cypress": "6.5.0"
   },
   "devDependencies": {
-    "allure-commandline": "^2.13.0",
+    "allure-commandline": "^2.13.8",
     "cypress": "6.5.0",
+    "mocha-allure-reporter": "^1.4.0",
     "mochawesome": "6.1.1",
     "mochawesome-merge": "4.1.0",
     "mochawesome-report-generator": "5.1.0"
   },
   "scripts": {
-    "cy:run": "cypress run --spec \"cypress/integration/**\" --browser chrome --headless",
+    "cy:run": "cypress run --spec \"cypress/integration/**\" --browser chrome --headless --reporter mocha-allure-reporter",
     "merge:reports": "mochawesome-merge 'cypress/results/specs/*.json' > cypress/results/mochawesome.json",
     "generate:report": "marge cypress/results/mochawesome.json --reportDir cypress/results --reportFilename index.html",
     "test:mochawesome": "npm run cy:run && npm run merge:reports && npm run generate:report",
     "report:allure": "allure generate allure-results --clean -o allure-report",
-    "test:allure": "npm run cy:run"
+    "test": "npm run cy:run"
   },
   "repository": {
     "type": "git",
