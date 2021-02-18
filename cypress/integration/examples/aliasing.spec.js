@@ -13,7 +13,7 @@ context('Aliasing', () => {
     // later in our code, we reference it with @
 
     cy.get('.as-table').find('tbody>tr')
-      .first().find('td').first()
+      .first().find('tdd').first()
       .find('button').as('firstBtn')
 
     // when we reference the alias, we place an
