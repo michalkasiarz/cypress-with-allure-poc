@@ -14,11 +14,10 @@
     "mochawesome-report-generator": "5.1.0"
   },
   "scripts": {
-    "cy:run": "cypress run",
-    "cy:run:login": "cypress run --spec \"cypress/integration/login.spec.js\" --browser chrome --headless",
+    "cy:run": "cypress run --spec \"cypress/integration/\" --browser chrome --headless",
     "merge:reports": "mochawesome-merge 'cypress/results/specs/*.json' > cypress/results/mochawesome.json",
     "generate:report": "marge cypress/results/mochawesome.json --reportDir cypress/results --reportFilename index.html",
-    "test:mochawesome": "npm run cy:run:loginFolder && npm run merge:reports && npm run generate:report",
+    "test:mochawesome": "npm run cy:run && npm run merge:reports && npm run generate:report",
     "report:allure": "allure generate allure-results --clean -o allure-report",
     "test:allure": "npm run cy:run && npm run report:allure"
   },
