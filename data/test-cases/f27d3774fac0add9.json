@@ -1,0 +1,46 @@
+{
+  "uid" : "f27d3774fac0add9",
+  "name" : ".type() - type into a DOM element",
+  "fullName" : "Actions..type() - type into a DOM element",
+  "historyId" : "33e5647403f78286c549c4e6a996aa72",
+  "time" : {
+    "start" : 1613680231095,
+    "stop" : 1613680236964,
+    "duration" : 5869
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Actions"
+  }, {
+    "name" : "testClass",
+    "value" : "Actions"
+  }, {
+    "name" : "testMethod",
+    "value" : ".type() - type into a DOM element"
+  }, {
+    "name" : "package",
+    "value" : "Actions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f27d3774fac0add9.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "36d96cc0ea1390aa",
+  "name" : "cy.scrollTo() - scroll the window or element to a position",
+  "fullName" : "Actions.cy.scrollTo() - scroll the window or element to a position",
+  "historyId" : "95a1d274f0de3f1bc88c2bcf4562e6c6",
+  "time" : {
+    "start" : 1613680245504,
+    "stop" : 1613680247681,
+    "duration" : 2177
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Actions"
+  }, {
+    "name" : "testClass",
+    "value" : "Actions"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.scrollTo() - scroll the window or element to a position"
+  }, {
+    "name" : "package",
+    "value" : "Actions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "36d96cc0ea1390aa.json",
+  "parameterValues" : [ ]
+}

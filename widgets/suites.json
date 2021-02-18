@@ -1,6 +1,17 @@
 {
   "total" : 7,
   "items" : [ {
+    "uid" : "4b0b4adf107314667cbde6764db5c027",
+    "name" : "Aliasing",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
     "uid" : "e4eb7c6362a258d35885a68faf6e31c7",
     "name" : "Actions",
     "statistic" : {
@@ -54,17 +65,6 @@
       "passed" : 4,
       "unknown" : 0,
       "total" : 4
-    }
-  }, {
-    "uid" : "4b0b4adf107314667cbde6764db5c027",
-    "name" : "Aliasing",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 2,
-      "unknown" : 0,
-      "total" : 2
     }
   }, {
     "uid" : "2d7600f6a5d722b595eb6b501e2b8bbe",

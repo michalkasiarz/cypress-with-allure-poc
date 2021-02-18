@@ -1,0 +1,46 @@
+{
+  "uid" : "85dd0dd53a871fc6",
+  "name" : ".as() - alias a route for later use",
+  "fullName" : "Aliasing..as() - alias a route for later use",
+  "historyId" : "f21d9254755461b105a8d39c889a4dc7",
+  "time" : {
+    "start" : 1613680260452,
+    "stop" : 1613680261092,
+    "duration" : 640
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Aliasing"
+  }, {
+    "name" : "testClass",
+    "value" : "Aliasing"
+  }, {
+    "name" : "testMethod",
+    "value" : ".as() - alias a route for later use"
+  }, {
+    "name" : "package",
+    "value" : "Aliasing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "85dd0dd53a871fc6.json",
+  "parameterValues" : [ ]
+}

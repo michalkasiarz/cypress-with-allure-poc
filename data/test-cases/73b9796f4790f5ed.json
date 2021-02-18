@@ -1,0 +1,46 @@
+{
+  "uid" : "73b9796f4790f5ed",
+  "name" : "cy.getCookies() - get browser cookies",
+  "fullName" : "Cookies.cy.getCookies() - get browser cookies",
+  "historyId" : "378c2bf92b1ed56aced3fb329458789f",
+  "time" : {
+    "start" : 1613680284905,
+    "stop" : 1613680285169,
+    "duration" : 264
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Cookies"
+  }, {
+    "name" : "testClass",
+    "value" : "Cookies"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.getCookies() - get browser cookies"
+  }, {
+    "name" : "package",
+    "value" : "Cookies"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "73b9796f4790f5ed.json",
+  "parameterValues" : [ ]
+}

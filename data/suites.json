@@ -4,182 +4,182 @@
     "name" : "Actions",
     "children" : [ {
       "name" : ".type() - type into a DOM element",
-      "uid" : "fe6aec78aa1dd133",
+      "uid" : "f27d3774fac0add9",
       "parentUid" : "e4eb7c6362a258d35885a68faf6e31c7",
       "status" : "passed",
       "time" : {
-        "start" : 1613679830271,
-        "stop" : 1613679836435,
-        "duration" : 6164
+        "start" : 1613680231095,
+        "stop" : 1613680236964,
+        "duration" : 5869
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : ".focus() - focus on a DOM element",
-      "uid" : "c9c6c25172684001",
+      "uid" : "5c4674433003d2b0",
       "parentUid" : "e4eb7c6362a258d35885a68faf6e31c7",
       "status" : "passed",
       "time" : {
-        "start" : 1613679836454,
-        "stop" : 1613679836748,
-        "duration" : 294
+        "start" : 1613680236974,
+        "stop" : 1613680237238,
+        "duration" : 264
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : ".blur() - blur off a DOM element",
-      "uid" : "94a43136bdd094a5",
+      "uid" : "6abadae0e0356036",
       "parentUid" : "e4eb7c6362a258d35885a68faf6e31c7",
       "status" : "passed",
       "time" : {
-        "start" : 1613679836757,
-        "stop" : 1613679837306,
-        "duration" : 549
+        "start" : 1613680237243,
+        "stop" : 1613680237845,
+        "duration" : 602
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : ".clear() - clears an input or textarea element",
-      "uid" : "ddeb11587ab7bc8d",
+      "uid" : "87f4f8537ba61637",
       "parentUid" : "e4eb7c6362a258d35885a68faf6e31c7",
       "status" : "passed",
       "time" : {
-        "start" : 1613679837310,
-        "stop" : 1613679837969,
-        "duration" : 659
+        "start" : 1613680237858,
+        "stop" : 1613680238512,
+        "duration" : 654
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : ".submit() - submit a form",
-      "uid" : "d1a3d8fa582cc97a",
+      "uid" : "7d17eb3093f53283",
       "parentUid" : "e4eb7c6362a258d35885a68faf6e31c7",
       "status" : "passed",
       "time" : {
-        "start" : 1613679837974,
-        "stop" : 1613679838497,
-        "duration" : 523
+        "start" : 1613680238519,
+        "stop" : 1613680239056,
+        "duration" : 537
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : ".click() - click on a DOM element",
-      "uid" : "b670ef3746a9da9",
+      "uid" : "8a06861b796a7d86",
       "parentUid" : "e4eb7c6362a258d35885a68faf6e31c7",
       "status" : "passed",
       "time" : {
-        "start" : 1613679838503,
-        "stop" : 1613679840694,
-        "duration" : 2191
+        "start" : 1613680239061,
+        "stop" : 1613680241245,
+        "duration" : 2184
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : ".dblclick() - double click on a DOM element",
-      "uid" : "4d2bf6179ac2baa6",
+      "uid" : "e10a07aa0691c118",
       "parentUid" : "e4eb7c6362a258d35885a68faf6e31c7",
       "status" : "passed",
       "time" : {
-        "start" : 1613679840699,
-        "stop" : 1613679841031,
-        "duration" : 332
+        "start" : 1613680241246,
+        "stop" : 1613680241558,
+        "duration" : 312
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : ".rightclick() - right click on a DOM element",
-      "uid" : "13e7bcf994bf8a4f",
+      "uid" : "30f042ce90e43583",
       "parentUid" : "e4eb7c6362a258d35885a68faf6e31c7",
       "status" : "passed",
       "time" : {
-        "start" : 1613679841035,
-        "stop" : 1613679841343,
-        "duration" : 308
+        "start" : 1613680241562,
+        "stop" : 1613680241845,
+        "duration" : 283
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : ".check() - check a checkbox or radio element",
-      "uid" : "f7c3e50a3c225ec7",
+      "uid" : "e83669a17bbbab05",
       "parentUid" : "e4eb7c6362a258d35885a68faf6e31c7",
       "status" : "passed",
       "time" : {
-        "start" : 1613679841351,
-        "stop" : 1613679842374,
-        "duration" : 1023
+        "start" : 1613680241856,
+        "stop" : 1613680242893,
+        "duration" : 1037
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : ".uncheck() - uncheck a checkbox element",
-      "uid" : "678756ee701ea495",
+      "uid" : "6edd836e9b8365f6",
       "parentUid" : "e4eb7c6362a258d35885a68faf6e31c7",
       "status" : "passed",
       "time" : {
-        "start" : 1613679842378,
-        "stop" : 1613679843479,
-        "duration" : 1101
+        "start" : 1613680242898,
+        "stop" : 1613680243886,
+        "duration" : 988
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : ".select() - select an option in a <select> element",
-      "uid" : "51368d716cd3715e",
+      "uid" : "2beae044e4e0e1c0",
       "parentUid" : "e4eb7c6362a258d35885a68faf6e31c7",
       "status" : "passed",
       "time" : {
-        "start" : 1613679843486,
-        "stop" : 1613679844515,
-        "duration" : 1029
+        "start" : 1613680243890,
+        "stop" : 1613680244982,
+        "duration" : 1092
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : ".scrollIntoView() - scroll an element into view",
-      "uid" : "5b8da1bb75ae3c10",
+      "uid" : "e6bb465dbc9ed5f3",
       "parentUid" : "e4eb7c6362a258d35885a68faf6e31c7",
       "status" : "passed",
       "time" : {
-        "start" : 1613679844521,
-        "stop" : 1613679844854,
-        "duration" : 333
+        "start" : 1613680244985,
+        "stop" : 1613680245280,
+        "duration" : 295
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : ".trigger() - trigger an event on a DOM element",
-      "uid" : "946f5e6a1096694e",
+      "uid" : "db193e9eea89423d",
       "parentUid" : "e4eb7c6362a258d35885a68faf6e31c7",
       "status" : "passed",
       "time" : {
-        "start" : 1613679844857,
-        "stop" : 1613679845113,
-        "duration" : 256
+        "start" : 1613680245280,
+        "stop" : 1613680245501,
+        "duration" : 221
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "cy.scrollTo() - scroll the window or element to a position",
-      "uid" : "b50c3592041f6b21",
+      "uid" : "36d96cc0ea1390aa",
       "parentUid" : "e4eb7c6362a258d35885a68faf6e31c7",
       "status" : "passed",
       "time" : {
-        "start" : 1613679845118,
-        "stop" : 1613679847302,
-        "duration" : 2184
+        "start" : 1613680245504,
+        "stop" : 1613680247681,
+        "duration" : 2177
       },
       "flaky" : false,
       "newFailed" : false,
@@ -190,26 +190,26 @@
     "name" : "Aliasing",
     "children" : [ {
       "name" : ".as() - alias a DOM element for later use",
-      "uid" : "bc9cf9d441bf528e",
+      "uid" : "ad5860249fd30231",
       "parentUid" : "4b0b4adf107314667cbde6764db5c027",
-      "status" : "passed",
+      "status" : "failed",
       "time" : {
-        "start" : 1613679854851,
-        "stop" : 1613679856591,
-        "duration" : 1740
+        "start" : 1613680254642,
+        "stop" : 1613680260402,
+        "duration" : 5760
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : ".as() - alias a route for later use",
-      "uid" : "652ff69f28316181",
+      "uid" : "85dd0dd53a871fc6",
       "parentUid" : "4b0b4adf107314667cbde6764db5c027",
       "status" : "passed",
       "time" : {
-        "start" : 1613679856596,
-        "stop" : 1613679857561,
-        "duration" : 965
+        "start" : 1613680260452,
+        "stop" : 1613680261092,
+        "duration" : 640
       },
       "flaky" : false,
       "newFailed" : false,
@@ -220,26 +220,26 @@
     "name" : "Assertions Implicit Assertions",
     "children" : [ {
       "name" : ".should() - make an assertion about the current subject",
-      "uid" : "46f7224a61cf660f",
+      "uid" : "9f413b02123029bc",
       "parentUid" : "2d7600f6a5d722b595eb6b501e2b8bbe",
       "status" : "passed",
       "time" : {
-        "start" : 1613679861478,
-        "stop" : 1613679863237,
-        "duration" : 1759
+        "start" : 1613680266394,
+        "stop" : 1613680268136,
+        "duration" : 1742
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : ".and() - chain multiple assertions together",
-      "uid" : "2a8481c5abf17b1c",
+      "uid" : "b9c574579faeef93",
       "parentUid" : "2d7600f6a5d722b595eb6b501e2b8bbe",
       "status" : "passed",
       "time" : {
-        "start" : 1613679863242,
-        "stop" : 1613679863403,
-        "duration" : 161
+        "start" : 1613680268142,
+        "stop" : 1613680268324,
+        "duration" : 182
       },
       "flaky" : false,
       "newFailed" : false,
@@ -250,91 +250,91 @@
     "name" : "Assertions Explicit Assertions",
     "children" : [ {
       "name" : "expect - make an assertion about a specified subject",
-      "uid" : "9d94756b04bbddac",
+      "uid" : "93f2c3e2aed5b018",
       "parentUid" : "3159827b20385fe73cf7e8ba607c7efa",
       "status" : "passed",
       "time" : {
-        "start" : 1613679863436,
-        "stop" : 1613679863603,
-        "duration" : 167
+        "start" : 1613680268333,
+        "stop" : 1613680268492,
+        "duration" : 159
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "pass your own callback function to should()",
-      "uid" : "f4490edd722387de",
+      "uid" : "6c5d3a954ca9e320",
       "parentUid" : "3159827b20385fe73cf7e8ba607c7efa",
       "status" : "passed",
       "time" : {
-        "start" : 1613679863612,
-        "stop" : 1613679863785,
-        "duration" : 173
+        "start" : 1613680268504,
+        "stop" : 1613680268666,
+        "duration" : 162
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "finds element by class name regex",
-      "uid" : "77305ce242e0d9e9",
+      "uid" : "2f7daf57eb44fe7a",
       "parentUid" : "3159827b20385fe73cf7e8ba607c7efa",
       "status" : "passed",
       "time" : {
-        "start" : 1613679863790,
-        "stop" : 1613679863979,
-        "duration" : 189
+        "start" : 1613680268675,
+        "stop" : 1613680268855,
+        "duration" : 180
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "can throw any error",
-      "uid" : "976d03560700a5a",
+      "uid" : "19fcc5e54c218254",
       "parentUid" : "3159827b20385fe73cf7e8ba607c7efa",
       "status" : "passed",
       "time" : {
-        "start" : 1613679863986,
-        "stop" : 1613679864194,
-        "duration" : 208
+        "start" : 1613680268859,
+        "stop" : 1613680269058,
+        "duration" : 199
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "matches unknown text between two elements",
-      "uid" : "dcb932726f37b877",
+      "uid" : "9b480ca39f321a61",
       "parentUid" : "3159827b20385fe73cf7e8ba607c7efa",
       "status" : "passed",
       "time" : {
-        "start" : 1613679864215,
-        "stop" : 1613679864435,
-        "duration" : 220
+        "start" : 1613680269092,
+        "stop" : 1613680269311,
+        "duration" : 219
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "assert - assert shape of an object",
-      "uid" : "4b55629ebb9b2c04",
+      "uid" : "8465ac8f0ad1fa07",
       "parentUid" : "3159827b20385fe73cf7e8ba607c7efa",
       "status" : "passed",
       "time" : {
-        "start" : 1613679864445,
-        "stop" : 1613679864641,
-        "duration" : 196
+        "start" : 1613680269319,
+        "stop" : 1613680269533,
+        "duration" : 214
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "retries the should callback until assertions pass",
-      "uid" : "3c6941455af02d36",
+      "uid" : "d1f1cd784922c9f3",
       "parentUid" : "3159827b20385fe73cf7e8ba607c7efa",
       "status" : "passed",
       "time" : {
-        "start" : 1613679864647,
-        "stop" : 1613679866336,
-        "duration" : 1689
+        "start" : 1613680269537,
+        "stop" : 1613680271160,
+        "duration" : 1623
       },
       "flaky" : false,
       "newFailed" : false,
@@ -345,52 +345,52 @@
     "name" : "Connectors",
     "children" : [ {
       "name" : ".each() - iterate over an array of elements",
-      "uid" : "7f490fc490428724",
+      "uid" : "e0b36770b485fda0",
       "parentUid" : "21883a7b91f77b0be658a88dcdeb3e22",
       "status" : "passed",
       "time" : {
-        "start" : 1613679871223,
-        "stop" : 1613679872807,
-        "duration" : 1584
+        "start" : 1613680276068,
+        "stop" : 1613680277740,
+        "duration" : 1672
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : ".its() - get properties on the current subject",
-      "uid" : "67c89134a651440f",
+      "uid" : "8a69f44c629887bb",
       "parentUid" : "21883a7b91f77b0be658a88dcdeb3e22",
       "status" : "passed",
       "time" : {
-        "start" : 1613679872809,
-        "stop" : 1613679872972,
-        "duration" : 163
+        "start" : 1613680277744,
+        "stop" : 1613680277914,
+        "duration" : 170
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : ".invoke() - invoke a function on the current subject",
-      "uid" : "d2c55bdfa8371e0d",
+      "uid" : "e063ffc5b2110db",
       "parentUid" : "21883a7b91f77b0be658a88dcdeb3e22",
       "status" : "passed",
       "time" : {
-        "start" : 1613679872972,
-        "stop" : 1613679873168,
-        "duration" : 196
+        "start" : 1613680277924,
+        "stop" : 1613680278055,
+        "duration" : 131
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : ".spread() - spread an array as individual args to callback function",
-      "uid" : "8f3cbe06eaf6ca22",
+      "uid" : "2250fd972fe26797",
       "parentUid" : "21883a7b91f77b0be658a88dcdeb3e22",
       "status" : "passed",
       "time" : {
-        "start" : 1613679873183,
-        "stop" : 1613679873335,
-        "duration" : 152
+        "start" : 1613680278070,
+        "stop" : 1613680278204,
+        "duration" : 134
       },
       "flaky" : false,
       "newFailed" : false,
@@ -401,52 +401,52 @@
     "name" : "Connectors .then()",
     "children" : [ {
       "name" : "invokes a callback function with the current subject",
-      "uid" : "f6533886a3b07c54",
+      "uid" : "55dcf980bad2543c",
       "parentUid" : "23a23f2cddbc84b68f4ad551c408d225",
       "status" : "passed",
       "time" : {
-        "start" : 1613679873344,
-        "stop" : 1613679873555,
-        "duration" : 211
+        "start" : 1613680278214,
+        "stop" : 1613680278377,
+        "duration" : 163
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "yields the returned value to the next command",
-      "uid" : "acad222bf3d85409",
+      "uid" : "e1e0b416364b481",
       "parentUid" : "23a23f2cddbc84b68f4ad551c408d225",
       "status" : "passed",
       "time" : {
-        "start" : 1613679873564,
-        "stop" : 1613679873777,
-        "duration" : 213
+        "start" : 1613680278387,
+        "stop" : 1613680278549,
+        "duration" : 162
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "yields the original subject without return",
-      "uid" : "d1a3c95fa8a379be",
+      "uid" : "ad6dbd7ff35f3340",
       "parentUid" : "23a23f2cddbc84b68f4ad551c408d225",
       "status" : "passed",
       "time" : {
-        "start" : 1613679873789,
-        "stop" : 1613679873985,
-        "duration" : 196
+        "start" : 1613680278560,
+        "stop" : 1613680278752,
+        "duration" : 192
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "yields the value yielded by the last Cypress command inside",
-      "uid" : "e9760ad9101db863",
+      "uid" : "1fc592d707c24b80",
       "parentUid" : "23a23f2cddbc84b68f4ad551c408d225",
       "status" : "passed",
       "time" : {
-        "start" : 1613679873995,
-        "stop" : 1613679874188,
-        "duration" : 193
+        "start" : 1613680278769,
+        "stop" : 1613680278973,
+        "duration" : 204
       },
       "flaky" : false,
       "newFailed" : false,
@@ -457,65 +457,65 @@
     "name" : "Cookies",
     "children" : [ {
       "name" : "cy.getCookie() - get a browser cookie",
-      "uid" : "b52b409ea98624d4",
+      "uid" : "7437968581f679ea",
       "parentUid" : "08168f6cc7ef32dfbe22d1ff4c91145f",
       "status" : "passed",
       "time" : {
-        "start" : 1613679878352,
-        "stop" : 1613679880015,
-        "duration" : 1663
+        "start" : 1613680283135,
+        "stop" : 1613680284882,
+        "duration" : 1747
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "cy.getCookies() - get browser cookies",
-      "uid" : "3911eb5e60d704a7",
+      "uid" : "73b9796f4790f5ed",
       "parentUid" : "08168f6cc7ef32dfbe22d1ff4c91145f",
       "status" : "passed",
       "time" : {
-        "start" : 1613679880021,
-        "stop" : 1613679880319,
-        "duration" : 298
+        "start" : 1613680284905,
+        "stop" : 1613680285169,
+        "duration" : 264
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "cy.setCookie() - set a browser cookie",
-      "uid" : "d36cf35f4e8b06c2",
+      "uid" : "21f81acff40d3cbc",
       "parentUid" : "08168f6cc7ef32dfbe22d1ff4c91145f",
       "status" : "passed",
       "time" : {
-        "start" : 1613679880323,
-        "stop" : 1613679880527,
-        "duration" : 204
+        "start" : 1613680285179,
+        "stop" : 1613680285374,
+        "duration" : 195
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "cy.clearCookie() - clear a browser cookie",
-      "uid" : "3883cab82a665e1b",
+      "uid" : "4ee695e058966c02",
       "parentUid" : "08168f6cc7ef32dfbe22d1ff4c91145f",
       "status" : "passed",
       "time" : {
-        "start" : 1613679880535,
-        "stop" : 1613679880825,
-        "duration" : 290
+        "start" : 1613680285385,
+        "stop" : 1613680285645,
+        "duration" : 260
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "cy.clearCookies() - clear browser cookies",
-      "uid" : "fe004fe5de840979",
+      "uid" : "4df2530e9f51005c",
       "parentUid" : "08168f6cc7ef32dfbe22d1ff4c91145f",
       "status" : "passed",
       "time" : {
-        "start" : 1613679880843,
-        "stop" : 1613679881123,
-        "duration" : 280
+        "start" : 1613680285650,
+        "stop" : 1613680285925,
+        "duration" : 275
       },
       "flaky" : false,
       "newFailed" : false,
