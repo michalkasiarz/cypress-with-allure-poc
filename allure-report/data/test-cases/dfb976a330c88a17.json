@@ -1,0 +1,46 @@
+{
+  "uid" : "dfb976a330c88a17",
+  "name" : "assert - assert shape of an object",
+  "fullName" : "Assertions Explicit Assertions.assert - assert shape of an object",
+  "historyId" : "faab3607bdcb309fa122b15eef5b35f4",
+  "time" : {
+    "start" : 1613676054772,
+    "stop" : 1613676055020,
+    "duration" : 248
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Assertions Explicit Assertions"
+  }, {
+    "name" : "testClass",
+    "value" : "Assertions Explicit Assertions"
+  }, {
+    "name" : "testMethod",
+    "value" : "assert - assert shape of an object"
+  }, {
+    "name" : "package",
+    "value" : "Assertions Explicit Assertions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dfb976a330c88a17.json",
+  "parameterValues" : [ ]
+}

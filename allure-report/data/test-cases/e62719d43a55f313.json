@@ -1,0 +1,46 @@
+{
+  "uid" : "e62719d43a55f313",
+  "name" : ".its() - get properties on the current subject",
+  "fullName" : "Connectors..its() - get properties on the current subject",
+  "historyId" : "9001f5413386125ff698a38a11d05e86",
+  "time" : {
+    "start" : 1613676062921,
+    "stop" : 1613676063128,
+    "duration" : 207
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connectors"
+  }, {
+    "name" : "testClass",
+    "value" : "Connectors"
+  }, {
+    "name" : "testMethod",
+    "value" : ".its() - get properties on the current subject"
+  }, {
+    "name" : "package",
+    "value" : "Connectors"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e62719d43a55f313.json",
+  "parameterValues" : [ ]
+}

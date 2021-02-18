@@ -1,0 +1,46 @@
+{
+  "uid" : "7a0a63fdc6a202ab",
+  "name" : "matches unknown text between two elements",
+  "fullName" : "Assertions Explicit Assertions.matches unknown text between two elements",
+  "historyId" : "a70e4cee60c2e4e01a1ab6bf7c8cd399",
+  "time" : {
+    "start" : 1613676054532,
+    "stop" : 1613676054768,
+    "duration" : 236
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Assertions Explicit Assertions"
+  }, {
+    "name" : "testClass",
+    "value" : "Assertions Explicit Assertions"
+  }, {
+    "name" : "testMethod",
+    "value" : "matches unknown text between two elements"
+  }, {
+    "name" : "package",
+    "value" : "Assertions Explicit Assertions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a0a63fdc6a202ab.json",
+  "parameterValues" : [ ]
+}

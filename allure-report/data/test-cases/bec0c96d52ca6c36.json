@@ -1,0 +1,46 @@
+{
+  "uid" : "bec0c96d52ca6c36",
+  "name" : ".select() - select an option in a <select> element",
+  "fullName" : "Actions..select() - select an option in a <select> element",
+  "historyId" : "de85e0a10f39429705d34161773727ae",
+  "time" : {
+    "start" : 1613676031031,
+    "stop" : 1613676032035,
+    "duration" : 1004
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Actions"
+  }, {
+    "name" : "testClass",
+    "value" : "Actions"
+  }, {
+    "name" : "testMethod",
+    "value" : ".select() - select an option in a <select> element"
+  }, {
+    "name" : "package",
+    "value" : "Actions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bec0c96d52ca6c36.json",
+  "parameterValues" : [ ]
+}
