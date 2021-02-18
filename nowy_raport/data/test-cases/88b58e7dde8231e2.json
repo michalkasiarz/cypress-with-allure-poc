@@ -1,0 +1,46 @@
+{
+  "uid" : "88b58e7dde8231e2",
+  "name" : "pass your own callback function to should()",
+  "fullName" : "Assertions Explicit Assertions.pass your own callback function to should()",
+  "historyId" : "b403aa4177d02ec77ee99e8bfa1c7e4a",
+  "time" : {
+    "start" : 1613676882590,
+    "stop" : 1613676882728,
+    "duration" : 138
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Assertions Explicit Assertions"
+  }, {
+    "name" : "testClass",
+    "value" : "Assertions Explicit Assertions"
+  }, {
+    "name" : "testMethod",
+    "value" : "pass your own callback function to should()"
+  }, {
+    "name" : "package",
+    "value" : "Assertions Explicit Assertions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "88b58e7dde8231e2.json",
+  "parameterValues" : [ ]
+}
