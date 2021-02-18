@@ -1,0 +1,46 @@
+{
+  "uid" : "f619ffa26ad53064",
+  "name" : "cy.clearCookie() - clear a browser cookie",
+  "fullName" : "Cookies.cy.clearCookie() - clear a browser cookie",
+  "historyId" : "af953d94fd980b539c2d438520509b46",
+  "time" : {
+    "start" : 1613678121100,
+    "stop" : 1613678121351,
+    "duration" : 251
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Cookies"
+  }, {
+    "name" : "testClass",
+    "value" : "Cookies"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.clearCookie() - clear a browser cookie"
+  }, {
+    "name" : "package",
+    "value" : "Cookies"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f619ffa26ad53064.json",
+  "parameterValues" : [ ]
+}

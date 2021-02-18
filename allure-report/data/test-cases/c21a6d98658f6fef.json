@@ -1,0 +1,46 @@
+{
+  "uid" : "c21a6d98658f6fef",
+  "name" : ".and() - chain multiple assertions together",
+  "fullName" : "Assertions Implicit Assertions..and() - chain multiple assertions together",
+  "historyId" : "aeae0c36d3c3025b0011776ebdc70cef",
+  "time" : {
+    "start" : 1613678105275,
+    "stop" : 1613678105446,
+    "duration" : 171
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Assertions Implicit Assertions"
+  }, {
+    "name" : "testClass",
+    "value" : "Assertions Implicit Assertions"
+  }, {
+    "name" : "testMethod",
+    "value" : ".and() - chain multiple assertions together"
+  }, {
+    "name" : "package",
+    "value" : "Assertions Implicit Assertions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c21a6d98658f6fef.json",
+  "parameterValues" : [ ]
+}
