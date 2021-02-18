@@ -18,7 +18,7 @@ jobs:
           $(npm bin)/cypress verify
 
       - name: Run Cypress tests
-        run: npm run test:allure
+        run: npm run test
         continue-on-error: true
         
       - name: Generate Allure report
