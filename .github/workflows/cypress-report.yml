@@ -13,9 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-java@v1
         with:
-          java-version: '9.0.4'
-          java-package: jdk
-          architecture: x64
+          java-version: 1.8
 
       - name: Install cypress and verify
         run: |
@@ -34,7 +32,7 @@ jobs:
           mkdir public
           cp -r cypress/videos public/videos
           cp -r cypress/screenshots public/screenshots
-          cp -r allure-report public/allure-report
+          cp -r allure-report public
           cp -r allure-results public/allure-results
       
       - name: Deploy report page to GitHub Page
