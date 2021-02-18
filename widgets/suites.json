@@ -1,6 +1,17 @@
 {
   "total" : 7,
   "items" : [ {
+    "uid" : "21883a7b91f77b0be658a88dcdeb3e22",
+    "name" : "Connectors",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
     "uid" : "4b0b4adf107314667cbde6764db5c027",
     "name" : "Aliasing",
     "statistic" : {
@@ -43,17 +54,6 @@
       "passed" : 5,
       "unknown" : 0,
       "total" : 5
-    }
-  }, {
-    "uid" : "21883a7b91f77b0be658a88dcdeb3e22",
-    "name" : "Connectors",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 4,
-      "unknown" : 0,
-      "total" : 4
     }
   }, {
     "uid" : "23a23f2cddbc84b68f4ad551c408d225",

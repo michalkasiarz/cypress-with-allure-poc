@@ -1,0 +1,52 @@
+{
+  "uid" : "1f969a22e0e17e37",
+  "name" : ".as() - alias a DOM element for later use",
+  "fullName" : "Aliasing..as() - alias a DOM element for later use",
+  "historyId" : "a5225b4d4fa43b3132504ec6320e5385",
+  "time" : {
+    "start" : 1613680423686,
+    "stop" : 1613680429372,
+    "duration" : 5686
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Timed out retrying after 4000ms: Expected to find element: `tdd`, but never found it. Queried from element: <tr>",
+  "statusTrace" : "AssertionError: Timed out retrying after 4000ms: Expected to find element: `tdd`, but never found it. Queried from element: <tr>\n                    at Context.eval (https://example.cypress.io/__cypress/tests?p=cypress/integration/examples/aliasing.spec.js:109:50)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Aliasing"
+  }, {
+    "name" : "testClass",
+    "value" : "Aliasing"
+  }, {
+    "name" : "testMethod",
+    "value" : ".as() - alias a DOM element for later use"
+  }, {
+    "name" : "package",
+    "value" : "Aliasing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "1f969a22e0e17e37.json",
+  "parameterValues" : [ ]
+}
