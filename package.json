@@ -6,9 +6,16 @@
   "dependencies": {
     "cypress": "^6.5.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "cypress": "5.6.0",
+    "mochawesome": "6.1.1",
+    "mochawesome-merge": "4.1.0",
+    "mochawesome-report-generator": "5.1.0"
+  },
   "scripts": {
-    "test": "test"
+    "test:chrome": "cypress run --browser chrome",
+    "combine:report": "mochawesome-merge ./mochawesome-report/*.json -o index.json",
+    "generate:report": "marge index.json --reportDir public --assetsDir public/assets --reportPageTitle index.html"
   },
   "repository": {
     "type": "git",
