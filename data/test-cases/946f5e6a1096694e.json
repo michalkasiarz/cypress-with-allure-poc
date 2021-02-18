@@ -1,0 +1,46 @@
+{
+  "uid" : "946f5e6a1096694e",
+  "name" : ".trigger() - trigger an event on a DOM element",
+  "fullName" : "Actions..trigger() - trigger an event on a DOM element",
+  "historyId" : "a6e6c79cfaceea7cfc328b37f476c",
+  "time" : {
+    "start" : 1613679844857,
+    "stop" : 1613679845113,
+    "duration" : 256
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Actions"
+  }, {
+    "name" : "testClass",
+    "value" : "Actions"
+  }, {
+    "name" : "testMethod",
+    "value" : ".trigger() - trigger an event on a DOM element"
+  }, {
+    "name" : "package",
+    "value" : "Actions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "946f5e6a1096694e.json",
+  "parameterValues" : [ ]
+}
