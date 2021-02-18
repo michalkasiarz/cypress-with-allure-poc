@@ -1,0 +1,29 @@
+{
+  "name": "cypress-poc",
+  "version": "1.0.0",
+  "description": "cypress with allure and github actions poc",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^6.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michalkasiarz/cypress-with-allure-poc.git"
+  },
+  "keywords": [
+    "cypress",
+    "allure",
+    "github",
+    "actions"
+  ],
+  "author": "Michal Kasiarz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michalkasiarz/cypress-with-allure-poc/issues"
+  },
+  "homepage": "https://github.com/michalkasiarz/cypress-with-allure-poc#readme"
+}
