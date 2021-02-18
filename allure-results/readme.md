@@ -1,0 +1,1 @@
+Report for Allure results
