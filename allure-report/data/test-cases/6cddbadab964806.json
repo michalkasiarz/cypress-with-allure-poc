@@ -1,0 +1,46 @@
+{
+  "uid" : "6cddbadab964806",
+  "name" : ".spread() - spread an array as individual args to callback function",
+  "fullName" : "Connectors..spread() - spread an array as individual args to callback function",
+  "historyId" : "98d729b14a92f1a32249c436c4701f7",
+  "time" : {
+    "start" : 1613677487244,
+    "stop" : 1613677487362,
+    "duration" : 118
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connectors"
+  }, {
+    "name" : "testClass",
+    "value" : "Connectors"
+  }, {
+    "name" : "testMethod",
+    "value" : ".spread() - spread an array as individual args to callback function"
+  }, {
+    "name" : "package",
+    "value" : "Connectors"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6cddbadab964806.json",
+  "parameterValues" : [ ]
+}
