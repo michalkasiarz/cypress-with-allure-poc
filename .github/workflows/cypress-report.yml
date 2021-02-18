@@ -20,6 +20,9 @@ jobs:
       - name: Run Cypress tests
         run: npm run test:allure
         continue-on-error: true
+        
+      - name: Generate Allure report
+        run: npm run report:allure
 
       - name: Copy test execution videos and screenshots
         run: |
