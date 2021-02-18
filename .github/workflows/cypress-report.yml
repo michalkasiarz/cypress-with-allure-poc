@@ -16,6 +16,7 @@ jobs:
         run: |
           npm ci
           $(npm bin)/cypress verify
+          
       - name: Run Cypress tests
         run: npm run test:chrome
         continue-on-error: true
@@ -25,6 +26,7 @@ jobs:
           mkdir public
           cp -r cypress/videos public/videos
           cp -r cypress/screenshots public/screenshots
+          
       - name: Merge test reports
         run: npm run combine:report
 
