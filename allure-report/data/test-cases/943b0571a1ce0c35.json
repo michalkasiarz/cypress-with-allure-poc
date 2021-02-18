@@ -1,0 +1,46 @@
+{
+  "uid" : "943b0571a1ce0c35",
+  "name" : ".each() - iterate over an array of elements",
+  "fullName" : "Connectors..each() - iterate over an array of elements",
+  "historyId" : "b37f54f4b6fc8c676d6ce5377a31dabc",
+  "time" : {
+    "start" : 1613678800563,
+    "stop" : 1613678802125,
+    "duration" : 1562
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connectors"
+  }, {
+    "name" : "testClass",
+    "value" : "Connectors"
+  }, {
+    "name" : "testMethod",
+    "value" : ".each() - iterate over an array of elements"
+  }, {
+    "name" : "package",
+    "value" : "Connectors"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "943b0571a1ce0c35.json",
+  "parameterValues" : [ ]
+}

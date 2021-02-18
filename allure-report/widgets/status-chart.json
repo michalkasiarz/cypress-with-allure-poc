@@ -1,380 +1,380 @@
 [ {
-  "uid" : "26020740cc85d130",
-  "name" : ".its() - get properties on the current subject",
-  "time" : {
-    "start" : 1613678114211,
-    "stop" : 1613678114387,
-    "duration" : 176
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1598948ed18e6bcb",
-  "name" : ".should() - make an assertion about the current subject",
-  "time" : {
-    "start" : 1613678103647,
-    "stop" : 1613678105266,
-    "duration" : 1619
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1fa10d4b13ab703b",
-  "name" : "matches unknown text between two elements",
-  "time" : {
-    "start" : 1613678106072,
-    "stop" : 1613678106269,
-    "duration" : 197
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "86a7ebc03d05a959",
-  "name" : ".type() - type into a DOM element",
-  "time" : {
-    "start" : 1613678075045,
-    "stop" : 1613678080676,
-    "duration" : 5631
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9ad092a75bd3071b",
-  "name" : ".select() - select an option in a <select> element",
-  "time" : {
-    "start" : 1613678087169,
-    "stop" : 1613678088128,
-    "duration" : 959
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1e708b8ba0c20dbe",
-  "name" : "pass your own callback function to should()",
-  "time" : {
-    "start" : 1613678105579,
-    "stop" : 1613678105738,
-    "duration" : 159
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8d63418a4fa992b4",
-  "name" : "cy.getCookies() - get browser cookies",
-  "time" : {
-    "start" : 1613678120586,
-    "stop" : 1613678120920,
-    "duration" : 334
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "56ccff808ecb545",
-  "name" : "can throw any error",
-  "time" : {
-    "start" : 1613678105898,
-    "stop" : 1613678106067,
-    "duration" : 169
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a9cfa2092611cd5d",
-  "name" : ".click() - click on a DOM element",
-  "time" : {
-    "start" : 1613678082477,
-    "stop" : 1613678084660,
-    "duration" : 2183
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8c1acc0959a2ae2a",
-  "name" : "finds element by class name regex",
-  "time" : {
-    "start" : 1613678105747,
-    "stop" : 1613678105892,
-    "duration" : 145
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4d62ceac9f0adf28",
-  "name" : "retries the should callback until assertions pass",
-  "time" : {
-    "start" : 1613678106460,
-    "stop" : 1613678108113,
-    "duration" : 1653
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8ea6c4ca24cb4b77",
-  "name" : ".as() - alias a DOM element for later use",
-  "time" : {
-    "start" : 1613678097905,
-    "stop" : 1613678099412,
-    "duration" : 1507
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8bf84298957c8fd5",
-  "name" : ".trigger() - trigger an event on a DOM element",
-  "time" : {
-    "start" : 1613678088375,
-    "stop" : 1613678088631,
-    "duration" : 256
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d9f427d5590dd27",
-  "name" : ".clear() - clears an input or textarea element",
-  "time" : {
-    "start" : 1613678081437,
-    "stop" : 1613678082013,
-    "duration" : 576
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "93eafac88f86191a",
-  "name" : ".as() - alias a route for later use",
-  "time" : {
-    "start" : 1613678099419,
-    "stop" : 1613678099919,
-    "duration" : 500
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c21a6d98658f6fef",
-  "name" : ".and() - chain multiple assertions together",
-  "time" : {
-    "start" : 1613678105275,
-    "stop" : 1613678105446,
-    "duration" : 171
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f619ffa26ad53064",
-  "name" : "cy.clearCookie() - clear a browser cookie",
-  "time" : {
-    "start" : 1613678121100,
-    "stop" : 1613678121351,
-    "duration" : 251
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "55cc1504dd3b15c7",
-  "name" : "yields the original subject without return",
-  "time" : {
-    "start" : 1613678115067,
-    "stop" : 1613678115306,
-    "duration" : 239
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "30daeabf73dce60c",
-  "name" : ".rightclick() - right click on a DOM element",
-  "time" : {
-    "start" : 1613678084952,
-    "stop" : 1613678085197,
-    "duration" : 245
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b3dc264cbf687321",
-  "name" : ".blur() - blur off a DOM element",
-  "time" : {
-    "start" : 1613678080943,
-    "stop" : 1613678081433,
-    "duration" : 490
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "355381a78ed86b33",
-  "name" : ".focus() - focus on a DOM element",
-  "time" : {
-    "start" : 1613678080706,
-    "stop" : 1613678080938,
-    "duration" : 232
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d44ca075370df1fd",
-  "name" : ".each() - iterate over an array of elements",
-  "time" : {
-    "start" : 1613678112675,
-    "stop" : 1613678114210,
-    "duration" : 1535
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1d95207413e44ef9",
-  "name" : ".spread() - spread an array as individual args to callback function",
-  "time" : {
-    "start" : 1613678114533,
-    "stop" : 1613678114662,
-    "duration" : 129
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d14d331330579640",
-  "name" : ".submit() - submit a form",
-  "time" : {
-    "start" : 1613678082018,
-    "stop" : 1613678082471,
-    "duration" : 453
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "152ef1781ac0aaab",
-  "name" : ".check() - check a checkbox or radio element",
-  "time" : {
-    "start" : 1613678085206,
-    "stop" : 1613678086199,
-    "duration" : 993
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fba3c8d7a88fbf38",
-  "name" : "cy.setCookie() - set a browser cookie",
-  "time" : {
-    "start" : 1613678120928,
-    "stop" : 1613678121091,
-    "duration" : 163
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f5764cc68a5cf5d",
-  "name" : "assert - assert shape of an object",
-  "time" : {
-    "start" : 1613678106274,
-    "stop" : 1613678106453,
-    "duration" : 179
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "be84e5cf81b68c9",
-  "name" : ".dblclick() - double click on a DOM element",
-  "time" : {
-    "start" : 1613678084667,
-    "stop" : 1613678084948,
-    "duration" : 281
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a95bf1217f0b25e3",
-  "name" : "yields the returned value to the next command",
-  "time" : {
-    "start" : 1613678114865,
-    "stop" : 1613678115059,
-    "duration" : 194
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b72d9be89499224",
-  "name" : "expect - make an assertion about a specified subject",
-  "time" : {
-    "start" : 1613678105457,
-    "stop" : 1613678105574,
-    "duration" : 117
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1b078a277f4743fb",
-  "name" : ".invoke() - invoke a function on the current subject",
-  "time" : {
-    "start" : 1613678114393,
-    "stop" : 1613678114533,
-    "duration" : 140
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b3821f285f1a5814",
-  "name" : ".uncheck() - uncheck a checkbox element",
-  "time" : {
-    "start" : 1613678086212,
-    "stop" : 1613678087168,
-    "duration" : 956
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a1d675020c861caa",
-  "name" : "yields the value yielded by the last Cypress command inside",
-  "time" : {
-    "start" : 1613678115309,
-    "stop" : 1613678115462,
-    "duration" : 153
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "59bd84b00db3234b",
+  "uid" : "5c1972f00796cbe2",
   "name" : "cy.scrollTo() - scroll the window or element to a position",
   "time" : {
-    "start" : 1613678088635,
-    "stop" : 1613678090799,
-    "duration" : 2164
+    "start" : 1613678775753,
+    "stop" : 1613678777910,
+    "duration" : 2157
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "6b0e66b10ac1e48c",
+  "uid" : "47162e2e8d95f8db",
+  "name" : ".uncheck() - uncheck a checkbox element",
+  "time" : {
+    "start" : 1613678773147,
+    "stop" : 1613678774208,
+    "duration" : 1061
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b9fafacf93af352",
+  "name" : "pass your own callback function to should()",
+  "time" : {
+    "start" : 1613678793264,
+    "stop" : 1613678793406,
+    "duration" : 142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4c9812a3413d4ce",
+  "name" : ".invoke() - invoke a function on the current subject",
+  "time" : {
+    "start" : 1613678802309,
+    "stop" : 1613678802467,
+    "duration" : 158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c66f85ab261dcc8",
+  "name" : "can throw any error",
+  "time" : {
+    "start" : 1613678793672,
+    "stop" : 1613678793856,
+    "duration" : 184
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a74935733b9f6973",
+  "name" : ".rightclick() - right click on a DOM element",
+  "time" : {
+    "start" : 1613678771814,
+    "stop" : 1613678772093,
+    "duration" : 279
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84e9a29d5325307c",
+  "name" : ".blur() - blur off a DOM element",
+  "time" : {
+    "start" : 1613678767705,
+    "stop" : 1613678768192,
+    "duration" : 487
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36846b0d54c41c0c",
   "name" : "cy.clearCookies() - clear browser cookies",
   "time" : {
-    "start" : 1613678121356,
-    "stop" : 1613678121582,
-    "duration" : 226
+    "start" : 1613678809679,
+    "stop" : 1613678809936,
+    "duration" : 257
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "772db7ac9da03c56",
+  "uid" : "ec06b40c56338ab9",
+  "name" : ".as() - alias a DOM element for later use",
+  "time" : {
+    "start" : 1613678784948,
+    "stop" : 1613678786623,
+    "duration" : 1675
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20a4f53d5002ede8",
+  "name" : ".as() - alias a route for later use",
+  "time" : {
+    "start" : 1613678786631,
+    "stop" : 1613678787448,
+    "duration" : 817
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "201a595048af33f3",
+  "name" : "matches unknown text between two elements",
+  "time" : {
+    "start" : 1613678793863,
+    "stop" : 1613678794174,
+    "duration" : 311
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f498bdedf89ae4e6",
+  "name" : ".check() - check a checkbox or radio element",
+  "time" : {
+    "start" : 1613678772100,
+    "stop" : 1613678773137,
+    "duration" : 1037
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "776f31aa919297bb",
+  "name" : ".and() - chain multiple assertions together",
+  "time" : {
+    "start" : 1613678792936,
+    "stop" : 1613678793096,
+    "duration" : 160
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d1cb0202e3f7a94",
+  "name" : ".select() - select an option in a <select> element",
+  "time" : {
+    "start" : 1613678774213,
+    "stop" : 1613678775218,
+    "duration" : 1005
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab44cc153d64e415",
+  "name" : "retries the should callback until assertions pass",
+  "time" : {
+    "start" : 1613678794322,
+    "stop" : 1613678795933,
+    "duration" : 1611
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "97ea829a73198391",
+  "name" : ".spread() - spread an array as individual args to callback function",
+  "time" : {
+    "start" : 1613678802474,
+    "stop" : 1613678802612,
+    "duration" : 138
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b80c484687f78ed",
+  "name" : ".click() - click on a DOM element",
+  "time" : {
+    "start" : 1613678769300,
+    "stop" : 1613678771451,
+    "duration" : 2151
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c24a91cc02a58a00",
+  "name" : ".should() - make an assertion about the current subject",
+  "time" : {
+    "start" : 1613678791265,
+    "stop" : 1613678792924,
+    "duration" : 1659
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e16acfdd187ec73a",
+  "name" : "cy.clearCookie() - clear a browser cookie",
+  "time" : {
+    "start" : 1613678809414,
+    "stop" : 1613678809663,
+    "duration" : 249
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "943b0571a1ce0c35",
+  "name" : ".each() - iterate over an array of elements",
+  "time" : {
+    "start" : 1613678800563,
+    "stop" : 1613678802125,
+    "duration" : 1562
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc13f32b3fcb5dd5",
+  "name" : ".trigger() - trigger an event on a DOM element",
+  "time" : {
+    "start" : 1613678775519,
+    "stop" : 1613678775740,
+    "duration" : 221
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0d3852ba0dd34a",
+  "name" : ".dblclick() - double click on a DOM element",
+  "time" : {
+    "start" : 1613678771460,
+    "stop" : 1613678771805,
+    "duration" : 345
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "19ae2136a5fd564c",
+  "name" : ".submit() - submit a form",
+  "time" : {
+    "start" : 1613678768807,
+    "stop" : 1613678769295,
+    "duration" : 488
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc3032a9a43c8b3c",
+  "name" : ".clear() - clears an input or textarea element",
+  "time" : {
+    "start" : 1613678768203,
+    "stop" : 1613678768802,
+    "duration" : 599
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "35e4300cc3106b39",
+  "name" : "cy.getCookies() - get browser cookies",
+  "time" : {
+    "start" : 1613678808993,
+    "stop" : 1613678809258,
+    "duration" : 265
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3afedc212622096e",
+  "name" : "assert - assert shape of an object",
+  "time" : {
+    "start" : 1613678794182,
+    "stop" : 1613678794317,
+    "duration" : 135
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6df2616785eeca90",
+  "name" : "finds element by class name regex",
+  "time" : {
+    "start" : 1613678793415,
+    "stop" : 1613678793663,
+    "duration" : 248
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "175bbe1afc027ee9",
+  "name" : "yields the returned value to the next command",
+  "time" : {
+    "start" : 1613678802801,
+    "stop" : 1613678802967,
+    "duration" : 166
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c85071c18da2a9c6",
+  "name" : ".scrollIntoView() - scroll an element into view",
+  "time" : {
+    "start" : 1613678775222,
+    "stop" : 1613678775513,
+    "duration" : 291
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f6acdee76d7292f",
+  "name" : "expect - make an assertion about a specified subject",
+  "time" : {
+    "start" : 1613678793109,
+    "stop" : 1613678793258,
+    "duration" : 149
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "93758728758309e9",
   "name" : "invokes a callback function with the current subject",
   "time" : {
-    "start" : 1613678114671,
-    "stop" : 1613678114857,
+    "start" : 1613678802631,
+    "stop" : 1613678802793,
+    "duration" : 162
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6dc410b24cfbba17",
+  "name" : ".its() - get properties on the current subject",
+  "time" : {
+    "start" : 1613678802125,
+    "stop" : 1613678802300,
+    "duration" : 175
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e4606338ae5a921",
+  "name" : ".type() - type into a DOM element",
+  "time" : {
+    "start" : 1613678761403,
+    "stop" : 1613678767375,
+    "duration" : 5972
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d857738d91ae30d2",
+  "name" : "cy.setCookie() - set a browser cookie",
+  "time" : {
+    "start" : 1613678809268,
+    "stop" : 1613678809402,
+    "duration" : 134
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b25dfbf2ebfaebfe",
+  "name" : "yields the original subject without return",
+  "time" : {
+    "start" : 1613678802977,
+    "stop" : 1613678803163,
     "duration" : 186
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "faa09aa163921019",
-  "name" : ".scrollIntoView() - scroll an element into view",
+  "uid" : "df439d549dca99f5",
+  "name" : "yields the value yielded by the last Cypress command inside",
   "time" : {
-    "start" : 1613678088134,
-    "stop" : 1613678088348,
-    "duration" : 214
+    "start" : 1613678803166,
+    "stop" : 1613678803360,
+    "duration" : 194
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "342b5dfd3a6ceb9f",
+  "uid" : "dea7cf9670ebe9a9",
+  "name" : ".focus() - focus on a DOM element",
+  "time" : {
+    "start" : 1613678767384,
+    "stop" : 1613678767699,
+    "duration" : 315
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b65f3882e648f907",
   "name" : "cy.getCookie() - get a browser cookie",
   "time" : {
-    "start" : 1613678119206,
-    "stop" : 1613678120575,
-    "duration" : 1369
+    "start" : 1613678807350,
+    "stop" : 1613678808984,
+    "duration" : 1634
   },
   "status" : "passed",
   "severity" : "normal"

@@ -1,0 +1,46 @@
+{
+  "uid" : "c24a91cc02a58a00",
+  "name" : ".should() - make an assertion about the current subject",
+  "fullName" : "Assertions Implicit Assertions..should() - make an assertion about the current subject",
+  "historyId" : "2746fb6f92cee353418306c28f19e975",
+  "time" : {
+    "start" : 1613678791265,
+    "stop" : 1613678792924,
+    "duration" : 1659
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Assertions Implicit Assertions"
+  }, {
+    "name" : "testClass",
+    "value" : "Assertions Implicit Assertions"
+  }, {
+    "name" : "testMethod",
+    "value" : ".should() - make an assertion about the current subject"
+  }, {
+    "name" : "package",
+    "value" : "Assertions Implicit Assertions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c24a91cc02a58a00.json",
+  "parameterValues" : [ ]
+}
