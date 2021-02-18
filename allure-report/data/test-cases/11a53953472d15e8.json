@@ -1,0 +1,46 @@
+{
+  "uid" : "11a53953472d15e8",
+  "name" : ".uncheck() - uncheck a checkbox element",
+  "fullName" : "Actions..uncheck() - uncheck a checkbox element",
+  "historyId" : "8d98b41e269ef53b95d98fec932f8c67",
+  "time" : {
+    "start" : 1613678925366,
+    "stop" : 1613678926343,
+    "duration" : 977
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Actions"
+  }, {
+    "name" : "testClass",
+    "value" : "Actions"
+  }, {
+    "name" : "testMethod",
+    "value" : ".uncheck() - uncheck a checkbox element"
+  }, {
+    "name" : "package",
+    "value" : "Actions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "11a53953472d15e8.json",
+  "parameterValues" : [ ]
+}
