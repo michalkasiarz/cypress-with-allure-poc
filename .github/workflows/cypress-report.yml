@@ -29,11 +29,13 @@ jobs:
       - name: Generate Allure report
         run: npm run report:allure
 
-      - name: Copy test execution videos and screenshots
+      - name: Copy test execution videos, screenshots and reports
         run: |
           mkdir public
           cp -r cypress/videos public/videos
           cp -r cypress/screenshots public/screenshots
+          cp -r allure-report public/allure-report
+          cp -r allure-results public/allure-results
       
       - name: Deploy report page to GitHub Page
         uses: peaceiris/actions-gh-pages@v3
