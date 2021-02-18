@@ -1,0 +1,46 @@
+{
+  "uid" : "29dbc79871c4a1e8",
+  "name" : "invokes a callback function with the current subject",
+  "fullName" : "Connectors .then().invokes a callback function with the current subject",
+  "historyId" : "288d4a6a0189d5b60aa7f6565fe3469b",
+  "time" : {
+    "start" : 1613679594064,
+    "stop" : 1613679594285,
+    "duration" : 221
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connectors .then()"
+  }, {
+    "name" : "testClass",
+    "value" : "Connectors .then()"
+  }, {
+    "name" : "testMethod",
+    "value" : "invokes a callback function with the current subject"
+  }, {
+    "name" : "package",
+    "value" : "Connectors .then()"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "29dbc79871c4a1e8.json",
+  "parameterValues" : [ ]
+}

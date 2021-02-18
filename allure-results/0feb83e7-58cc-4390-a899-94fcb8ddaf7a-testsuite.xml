@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1613679591930' stop='1613679594946'>
+    <name>Connectors</name>
+    <title>Connectors</title>
+    <test-cases>
+        <test-case start='1613679591930' status='passed' stop='1613679593560'>
+            <name>.each() - iterate over an array of elements</name>
+            <title>.each() - iterate over an array of elements</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1613679593561' status='passed' stop='1613679593728'>
+            <name>.its() - get properties on the current subject</name>
+            <title>.its() - get properties on the current subject</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1613679593736' status='passed' stop='1613679593880'>
+            <name>.invoke() - invoke a function on the current subject</name>
+            <title>.invoke() - invoke a function on the current subject</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1613679593894' status='passed' stop='1613679594051'>
+            <name>.spread() - spread an array as individual args to callback function</name>
+            <title>.spread() - spread an array as individual args to callback function</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

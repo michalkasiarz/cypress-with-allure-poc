@@ -1,0 +1,46 @@
+{
+  "uid" : "edca0f0618935519",
+  "name" : ".scrollIntoView() - scroll an element into view",
+  "fullName" : "Actions..scrollIntoView() - scroll an element into view",
+  "historyId" : "bf175ebf2e910221b7c57e8226209fdd",
+  "time" : {
+    "start" : 1613679563741,
+    "stop" : 1613679564028,
+    "duration" : 287
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Actions"
+  }, {
+    "name" : "testClass",
+    "value" : "Actions"
+  }, {
+    "name" : "testMethod",
+    "value" : ".scrollIntoView() - scroll an element into view"
+  }, {
+    "name" : "package",
+    "value" : "Actions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "edca0f0618935519.json",
+  "parameterValues" : [ ]
+}

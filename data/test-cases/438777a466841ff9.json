@@ -1,0 +1,46 @@
+{
+  "uid" : "438777a466841ff9",
+  "name" : ".rightclick() - right click on a DOM element",
+  "fullName" : "Actions..rightclick() - right click on a DOM element",
+  "historyId" : "30741bc7588094557673b808c97a49a",
+  "time" : {
+    "start" : 1613679560073,
+    "stop" : 1613679560428,
+    "duration" : 355
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Actions"
+  }, {
+    "name" : "testClass",
+    "value" : "Actions"
+  }, {
+    "name" : "testMethod",
+    "value" : ".rightclick() - right click on a DOM element"
+  }, {
+    "name" : "package",
+    "value" : "Actions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "438777a466841ff9.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "efde6bc04afd619f",
+  "name" : ".as() - alias a DOM element for later use",
+  "fullName" : "Aliasing..as() - alias a DOM element for later use",
+  "historyId" : "a5225b4d4fa43b3132504ec6320e5385",
+  "time" : {
+    "start" : 1613679575969,
+    "stop" : 1613679577803,
+    "duration" : 1834
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Aliasing"
+  }, {
+    "name" : "testClass",
+    "value" : "Aliasing"
+  }, {
+    "name" : "testMethod",
+    "value" : ".as() - alias a DOM element for later use"
+  }, {
+    "name" : "package",
+    "value" : "Aliasing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "efde6bc04afd619f.json",
+  "parameterValues" : [ ]
+}

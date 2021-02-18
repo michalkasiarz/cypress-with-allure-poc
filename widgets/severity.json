@@ -1,0 +1,381 @@
+[ {
+  "uid" : "4aba6c617d4cecb4",
+  "name" : "retries the should callback until assertions pass",
+  "time" : {
+    "start" : 1613679585548,
+    "stop" : 1613679587191,
+    "duration" : 1643
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "efde6bc04afd619f",
+  "name" : ".as() - alias a DOM element for later use",
+  "time" : {
+    "start" : 1613679575969,
+    "stop" : 1613679577803,
+    "duration" : 1834
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4caf19783f206742",
+  "name" : "assert - assert shape of an object",
+  "time" : {
+    "start" : 1613679585330,
+    "stop" : 1613679585533,
+    "duration" : 203
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e672ce4ab814cd42",
+  "name" : ".should() - make an assertion about the current subject",
+  "time" : {
+    "start" : 1613679582391,
+    "stop" : 1613679584176,
+    "duration" : 1785
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5849e317d76d1b7e",
+  "name" : ".its() - get properties on the current subject",
+  "time" : {
+    "start" : 1613679593561,
+    "stop" : 1613679593728,
+    "duration" : 167
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c7fd347a108a8ea",
+  "name" : "cy.scrollTo() - scroll the window or element to a position",
+  "time" : {
+    "start" : 1613679564260,
+    "stop" : 1613679566491,
+    "duration" : 2231
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af33ad1b22b0bf6",
+  "name" : ".type() - type into a DOM element",
+  "time" : {
+    "start" : 1613679549181,
+    "stop" : 1613679555250,
+    "duration" : 6069
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7aad9d3348dc8f8",
+  "name" : ".and() - chain multiple assertions together",
+  "time" : {
+    "start" : 1613679584183,
+    "stop" : 1613679584341,
+    "duration" : 158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7fb2ea2ba7755e53",
+  "name" : "expect - make an assertion about a specified subject",
+  "time" : {
+    "start" : 1613679584356,
+    "stop" : 1613679584529,
+    "duration" : 173
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7259e277574b77",
+  "name" : "cy.setCookie() - set a browser cookie",
+  "time" : {
+    "start" : 1613679601306,
+    "stop" : 1613679601513,
+    "duration" : 207
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29dbc79871c4a1e8",
+  "name" : "invokes a callback function with the current subject",
+  "time" : {
+    "start" : 1613679594064,
+    "stop" : 1613679594285,
+    "duration" : 221
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d2ae61924b685c45",
+  "name" : ".focus() - focus on a DOM element",
+  "time" : {
+    "start" : 1613679555261,
+    "stop" : 1613679555583,
+    "duration" : 322
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4393453de090e7e7",
+  "name" : ".blur() - blur off a DOM element",
+  "time" : {
+    "start" : 1613679555598,
+    "stop" : 1613679556180,
+    "duration" : 582
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "edca0f0618935519",
+  "name" : ".scrollIntoView() - scroll an element into view",
+  "time" : {
+    "start" : 1613679563741,
+    "stop" : 1613679564028,
+    "duration" : 287
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "16b25794340a262",
+  "name" : ".each() - iterate over an array of elements",
+  "time" : {
+    "start" : 1613679591930,
+    "stop" : 1613679593560,
+    "duration" : 1630
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "832447cb8dbc33c8",
+  "name" : "can throw any error",
+  "time" : {
+    "start" : 1613679584855,
+    "stop" : 1613679585065,
+    "duration" : 210
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b192cc54eef53bf",
+  "name" : "yields the value yielded by the last Cypress command inside",
+  "time" : {
+    "start" : 1613679594734,
+    "stop" : 1613679594928,
+    "duration" : 194
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52bdb12de772d18c",
+  "name" : "matches unknown text between two elements",
+  "time" : {
+    "start" : 1613679585077,
+    "stop" : 1613679585325,
+    "duration" : 248
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de502a7e4edf0e64",
+  "name" : "yields the original subject without return",
+  "time" : {
+    "start" : 1613679594497,
+    "stop" : 1613679594730,
+    "duration" : 233
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d65e1793dd07050",
+  "name" : ".submit() - submit a form",
+  "time" : {
+    "start" : 1613679556890,
+    "stop" : 1613679557416,
+    "duration" : 526
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b55e521bb240e523",
+  "name" : ".as() - alias a route for later use",
+  "time" : {
+    "start" : 1613679577809,
+    "stop" : 1613679578367,
+    "duration" : 558
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98d68f451a0bd12f",
+  "name" : ".trigger() - trigger an event on a DOM element",
+  "time" : {
+    "start" : 1613679564032,
+    "stop" : 1613679564255,
+    "duration" : 223
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b535832f74329e5a",
+  "name" : ".click() - click on a DOM element",
+  "time" : {
+    "start" : 1613679557427,
+    "stop" : 1613679559735,
+    "duration" : 2308
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa585b9a9bc8c2b1",
+  "name" : "cy.getCookie() - get a browser cookie",
+  "time" : {
+    "start" : 1613679599121,
+    "stop" : 1613679600999,
+    "duration" : 1878
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f40cc6833e64fd70",
+  "name" : "pass your own callback function to should()",
+  "time" : {
+    "start" : 1613679584541,
+    "stop" : 1613679584692,
+    "duration" : 151
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d0f487a2922d81be",
+  "name" : ".dblclick() - double click on a DOM element",
+  "time" : {
+    "start" : 1613679559744,
+    "stop" : 1613679560072,
+    "duration" : 328
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "660f5f35fb425439",
+  "name" : ".check() - check a checkbox or radio element",
+  "time" : {
+    "start" : 1613679560433,
+    "stop" : 1613679561622,
+    "duration" : 1189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e97fe68cb69d5919",
+  "name" : "cy.getCookies() - get browser cookies",
+  "time" : {
+    "start" : 1613679601005,
+    "stop" : 1613679601296,
+    "duration" : 291
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f7a868a50cebc89",
+  "name" : "cy.clearCookie() - clear a browser cookie",
+  "time" : {
+    "start" : 1613679601524,
+    "stop" : 1613679601831,
+    "duration" : 307
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22398d57b4102909",
+  "name" : ".clear() - clears an input or textarea element",
+  "time" : {
+    "start" : 1613679556189,
+    "stop" : 1613679556860,
+    "duration" : 671
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5fd0507765b437cd",
+  "name" : ".spread() - spread an array as individual args to callback function",
+  "time" : {
+    "start" : 1613679593894,
+    "stop" : 1613679594051,
+    "duration" : 157
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb55b8470a2c1ea4",
+  "name" : "finds element by class name regex",
+  "time" : {
+    "start" : 1613679584698,
+    "stop" : 1613679584850,
+    "duration" : 152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8a129bbeb933e61",
+  "name" : ".select() - select an option in a <select> element",
+  "time" : {
+    "start" : 1613679562677,
+    "stop" : 1613679563733,
+    "duration" : 1056
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "438777a466841ff9",
+  "name" : ".rightclick() - right click on a DOM element",
+  "time" : {
+    "start" : 1613679560073,
+    "stop" : 1613679560428,
+    "duration" : 355
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8847a15e0270b531",
+  "name" : ".uncheck() - uncheck a checkbox element",
+  "time" : {
+    "start" : 1613679561622,
+    "stop" : 1613679562665,
+    "duration" : 1043
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6dcbf84198aa3d1b",
+  "name" : ".invoke() - invoke a function on the current subject",
+  "time" : {
+    "start" : 1613679593736,
+    "stop" : 1613679593880,
+    "duration" : 144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a9c125b02c6176fc",
+  "name" : "yields the returned value to the next command",
+  "time" : {
+    "start" : 1613679594292,
+    "stop" : 1613679594481,
+    "duration" : 189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "548ceb96308de66d",
+  "name" : "cy.clearCookies() - clear browser cookies",
+  "time" : {
+    "start" : 1613679601840,
+    "stop" : 1613679602111,
+    "duration" : 271
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

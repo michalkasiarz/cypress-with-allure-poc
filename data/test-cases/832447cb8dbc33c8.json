@@ -1,0 +1,46 @@
+{
+  "uid" : "832447cb8dbc33c8",
+  "name" : "can throw any error",
+  "fullName" : "Assertions Explicit Assertions.can throw any error",
+  "historyId" : "eee67f1690176c3cd3b885f5f0763042",
+  "time" : {
+    "start" : 1613679584855,
+    "stop" : 1613679585065,
+    "duration" : 210
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Assertions Explicit Assertions"
+  }, {
+    "name" : "testClass",
+    "value" : "Assertions Explicit Assertions"
+  }, {
+    "name" : "testMethod",
+    "value" : "can throw any error"
+  }, {
+    "name" : "package",
+    "value" : "Assertions Explicit Assertions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "832447cb8dbc33c8.json",
+  "parameterValues" : [ ]
+}

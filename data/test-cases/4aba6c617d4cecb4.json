@@ -1,0 +1,46 @@
+{
+  "uid" : "4aba6c617d4cecb4",
+  "name" : "retries the should callback until assertions pass",
+  "fullName" : "Assertions Explicit Assertions.retries the should callback until assertions pass",
+  "historyId" : "5c0c220a94facbef63d4ea3637cffe4c",
+  "time" : {
+    "start" : 1613679585548,
+    "stop" : 1613679587191,
+    "duration" : 1643
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Assertions Explicit Assertions"
+  }, {
+    "name" : "testClass",
+    "value" : "Assertions Explicit Assertions"
+  }, {
+    "name" : "testMethod",
+    "value" : "retries the should callback until assertions pass"
+  }, {
+    "name" : "package",
+    "value" : "Assertions Explicit Assertions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4aba6c617d4cecb4.json",
+  "parameterValues" : [ ]
+}
