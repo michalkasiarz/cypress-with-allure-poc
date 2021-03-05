@@ -1,0 +1,46 @@
+{
+  "uid" : "8d4c295b8d395f18",
+  "name" : "yields the value yielded by the last Cypress command inside",
+  "fullName" : "Connectors .then().yields the value yielded by the last Cypress command inside",
+  "historyId" : "e7f6ed20b8d9ae32f30bd70e0b7cb48e",
+  "time" : {
+    "start" : 1614974308406,
+    "stop" : 1614974308609,
+    "duration" : 203
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connectors .then()"
+  }, {
+    "name" : "testClass",
+    "value" : "Connectors .then()"
+  }, {
+    "name" : "testMethod",
+    "value" : "yields the value yielded by the last Cypress command inside"
+  }, {
+    "name" : "package",
+    "value" : "Connectors .then()"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8d4c295b8d395f18.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1614974307874' stop='1614974308610'>
+    <name>Connectors .then()</name>
+    <title>Connectors .then()</title>
+    <test-cases>
+        <test-case start='1614974307874' status='passed' stop='1614974308001'>
+            <name>invokes a callback function with the current subject</name>
+            <title>invokes a callback function with the current subject</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614974308004' status='passed' stop='1614974308182'>
+            <name>yields the returned value to the next command</name>
+            <title>yields the returned value to the next command</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614974308198' status='passed' stop='1614974308391'>
+            <name>yields the original subject without return</name>
+            <title>yields the original subject without return</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614974308406' status='passed' stop='1614974308609'>
+            <name>yields the value yielded by the last Cypress command inside</name>
+            <title>yields the value yielded by the last Cypress command inside</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

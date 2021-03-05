@@ -6,13 +6,13 @@
       "name" : "Timed out retrying after 4000ms: Expected to find element: `tdd`, but never found it. Queried from element: <tr>",
       "children" : [ {
         "name" : ".as() - alias a DOM element for later use",
-        "uid" : "25a3b0758ea34626",
+        "uid" : "19f41a562b646eb3",
         "parentUid" : "dfa0eead17e8b3e30214515c6edcb469",
         "status" : "failed",
         "time" : {
-          "start" : 1614974241938,
-          "stop" : 1614974247335,
-          "duration" : 5397
+          "start" : 1614974282898,
+          "stop" : 1614974288419,
+          "duration" : 5521
         },
         "flaky" : false,
         "newFailed" : false,
@@ -23,13 +23,13 @@
       "name" : "Timed out retrying after 4000ms: expected 3 to be above 22",
       "children" : [ {
         "name" : ".its() - get properties on the current subject",
-        "uid" : "98f7644ff7e9791a",
+        "uid" : "4bb0ec116cbea386",
         "parentUid" : "8bcfb0527049c5be590586326fcc7192",
         "status" : "failed",
         "time" : {
-          "start" : 1614974261188,
-          "stop" : 1614974265496,
-          "duration" : 4308
+          "start" : 1614974303250,
+          "stop" : 1614974307582,
+          "duration" : 4332
         },
         "flaky" : false,
         "newFailed" : false,

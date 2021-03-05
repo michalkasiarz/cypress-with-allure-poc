@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1614974312353' stop='1614974314601'>
+    <name>Cookies</name>
+    <title>Cookies</title>
+    <test-cases>
+        <test-case start='1614974312354' status='passed' stop='1614974313785'>
+            <name>cy.getCookie() - get a browser cookie</name>
+            <title>cy.getCookie() - get a browser cookie</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614974313790' status='passed' stop='1614974314010'>
+            <name>cy.getCookies() - get browser cookies</name>
+            <title>cy.getCookies() - get browser cookies</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614974314015' status='passed' stop='1614974314156'>
+            <name>cy.setCookie() - set a browser cookie</name>
+            <title>cy.setCookie() - set a browser cookie</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614974314163' status='passed' stop='1614974314387'>
+            <name>cy.clearCookie() - clear a browser cookie</name>
+            <title>cy.clearCookie() - clear a browser cookie</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614974314391' status='passed' stop='1614974314596'>
+            <name>cy.clearCookies() - clear browser cookies</name>
+            <title>cy.clearCookies() - clear browser cookies</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

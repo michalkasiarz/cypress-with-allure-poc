@@ -1,0 +1,46 @@
+{
+  "uid" : "e38931692ae16f42",
+  "name" : ".check() - check a checkbox or radio element",
+  "fullName" : "Actions..check() - check a checkbox or radio element",
+  "historyId" : "b7009db1b97d7243e687aa820a4d957b",
+  "time" : {
+    "start" : 1614974271393,
+    "stop" : 1614974272275,
+    "duration" : 882
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Actions"
+  }, {
+    "name" : "testClass",
+    "value" : "Actions"
+  }, {
+    "name" : "testMethod",
+    "value" : ".check() - check a checkbox or radio element"
+  }, {
+    "name" : "package",
+    "value" : "Actions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e38931692ae16f42.json",
+  "parameterValues" : [ ]
+}

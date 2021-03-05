@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1614974261630' stop='1614974276770'>
+    <name>Actions</name>
+    <title>Actions</title>
+    <test-cases>
+        <test-case start='1614974261630' status='passed' stop='1614974267164'>
+            <name>.type() - type into a DOM element</name>
+            <title>.type() - type into a DOM element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614974267171' status='passed' stop='1614974267354'>
+            <name>.focus() - focus on a DOM element</name>
+            <title>.focus() - focus on a DOM element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614974267355' status='passed' stop='1614974267817'>
+            <name>.blur() - blur off a DOM element</name>
+            <title>.blur() - blur off a DOM element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614974267825' status='passed' stop='1614974268387'>
+            <name>.clear() - clears an input or textarea element</name>
+            <title>.clear() - clears an input or textarea element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614974268389' status='passed' stop='1614974268845'>
+            <name>.submit() - submit a form</name>
+            <title>.submit() - submit a form</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614974268850' status='passed' stop='1614974270890'>
+            <name>.click() - click on a DOM element</name>
+            <title>.click() - click on a DOM element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614974270898' status='passed' stop='1614974271167'>
+            <name>.dblclick() - double click on a DOM element</name>
+            <title>.dblclick() - double click on a DOM element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614974271172' status='passed' stop='1614974271389'>
+            <name>.rightclick() - right click on a DOM element</name>
+            <title>.rightclick() - right click on a DOM element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614974271393' status='passed' stop='1614974272275'>
+            <name>.check() - check a checkbox or radio element</name>
+            <title>.check() - check a checkbox or radio element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614974272282' status='passed' stop='1614974273216'>
+            <name>.uncheck() - uncheck a checkbox element</name>
+            <title>.uncheck() - uncheck a checkbox element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614974273223' status='passed' stop='1614974274158'>
+            <name>.select() - select an option in a &lt;select> element</name>
+            <title>.select() - select an option in a &lt;select> element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614974274165' status='passed' stop='1614974274419'>
+            <name>.scrollIntoView() - scroll an element into view</name>
+            <title>.scrollIntoView() - scroll an element into view</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614974274423' status='passed' stop='1614974274586'>
+            <name>.trigger() - trigger an event on a DOM element</name>
+            <title>.trigger() - trigger an event on a DOM element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614974274589' status='passed' stop='1614974276763'>
+            <name>cy.scrollTo() - scroll the window or element to a position</name>
+            <title>cy.scrollTo() - scroll the window or element to a position</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,46 @@
+{
+  "uid" : "493398528bd4f215",
+  "name" : ".focus() - focus on a DOM element",
+  "fullName" : "Actions..focus() - focus on a DOM element",
+  "historyId" : "301442e09a80f760e3f0ce2a82ee4bc7",
+  "time" : {
+    "start" : 1614974267171,
+    "stop" : 1614974267354,
+    "duration" : 183
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Actions"
+  }, {
+    "name" : "testClass",
+    "value" : "Actions"
+  }, {
+    "name" : "testMethod",
+    "value" : ".focus() - focus on a DOM element"
+  }, {
+    "name" : "package",
+    "value" : "Actions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "493398528bd4f215.json",
+  "parameterValues" : [ ]
+}

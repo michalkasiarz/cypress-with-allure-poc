@@ -1,0 +1,46 @@
+{
+  "uid" : "c7ceb677c15ac4f4",
+  "name" : ".blur() - blur off a DOM element",
+  "fullName" : "Actions..blur() - blur off a DOM element",
+  "historyId" : "6747b3edae2b19fefa485bf7d6c50ac7",
+  "time" : {
+    "start" : 1614974267355,
+    "stop" : 1614974267817,
+    "duration" : 462
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Actions"
+  }, {
+    "name" : "testClass",
+    "value" : "Actions"
+  }, {
+    "name" : "testMethod",
+    "value" : ".blur() - blur off a DOM element"
+  }, {
+    "name" : "package",
+    "value" : "Actions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c7ceb677c15ac4f4.json",
+  "parameterValues" : [ ]
+}
