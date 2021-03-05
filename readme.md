@@ -1,6 +1,6 @@
 # Cypress with Allure POC
  
-:hotsprings: Language: JavaScript  
+:hotsprings: Language: JavaScript, Cypress  
 :page_facing_up: Test Reporting Tool: Allure  
 :wrench: CI Tool: Github Actions  
 
