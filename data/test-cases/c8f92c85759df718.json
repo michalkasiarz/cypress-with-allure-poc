@@ -1,0 +1,46 @@
+{
+  "uid" : "c8f92c85759df718",
+  "name" : ".clear() - clears an input or textarea element",
+  "fullName" : "Actions..clear() - clears an input or textarea element",
+  "historyId" : "63a3dd5ec06b4f3b730699e3a6330860",
+  "time" : {
+    "start" : 1614974227625,
+    "stop" : 1614974228167,
+    "duration" : 542
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Actions"
+  }, {
+    "name" : "testClass",
+    "value" : "Actions"
+  }, {
+    "name" : "testMethod",
+    "value" : ".clear() - clears an input or textarea element"
+  }, {
+    "name" : "package",
+    "value" : "Actions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c8f92c85759df718.json",
+  "parameterValues" : [ ]
+}

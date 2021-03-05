@@ -1,0 +1,46 @@
+{
+  "uid" : "d1200c898dc70224",
+  "name" : ".invoke() - invoke a function on the current subject",
+  "fullName" : "Connectors..invoke() - invoke a function on the current subject",
+  "historyId" : "575a67179d3c4f61e79a9c4075302ab5",
+  "time" : {
+    "start" : 1614974265533,
+    "stop" : 1614974265642,
+    "duration" : 109
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connectors"
+  }, {
+    "name" : "testClass",
+    "value" : "Connectors"
+  }, {
+    "name" : "testMethod",
+    "value" : ".invoke() - invoke a function on the current subject"
+  }, {
+    "name" : "package",
+    "value" : "Connectors"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d1200c898dc70224.json",
+  "parameterValues" : [ ]
+}

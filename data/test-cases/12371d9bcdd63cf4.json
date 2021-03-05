@@ -1,0 +1,46 @@
+{
+  "uid" : "12371d9bcdd63cf4",
+  "name" : ".submit() - submit a form",
+  "fullName" : "Actions..submit() - submit a form",
+  "historyId" : "8d8e70eae0de04739829d214621734bd",
+  "time" : {
+    "start" : 1614974228169,
+    "stop" : 1614974228607,
+    "duration" : 438
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Actions"
+  }, {
+    "name" : "testClass",
+    "value" : "Actions"
+  }, {
+    "name" : "testMethod",
+    "value" : ".submit() - submit a form"
+  }, {
+    "name" : "package",
+    "value" : "Actions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "12371d9bcdd63cf4.json",
+  "parameterValues" : [ ]
+}
